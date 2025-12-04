@@ -1,6 +1,3 @@
-# 👋 ¡Hola! Soy Guille  
-### Data Science · Análisis de Datos · Pensamiento Científico
-
 Bienvenido/a a mi espacio en GitHub. Aquí comparto proyectos, análisis y ejercicios prácticos que forman parte de mi transición estructurada hacia el mundo del Data Science.
 
 A continuación puedes ver mi perfil en **español** o **inglés** según prefieras:
