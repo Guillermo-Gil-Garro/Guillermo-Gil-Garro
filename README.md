@@ -43,6 +43,7 @@ Incluye:
 - Consumo robusto de la API pública de Open Food Facts (extracción con gestión de errores).
 - Almacenamiento siguiendo un diseño tipo *data lake* (HDFS/Hive, tablas externas y particionadas).
 - Limpieza y transformación de datos con Pandas (normalización de columnas, tipos, calidad de datos).
+
 👉 **Repositorio**: https://github.com/Guillermo-Gil-Garro/openfoodfacts-etl-masterds
 
 *(Más proyectos en camino: modelos de ML básicos, análisis aplicado y proyecto final del máster.)*
@@ -109,6 +110,7 @@ It includes:
 - Robust consumption of the public Open Food Facts API (extraction with proper error handling).
 - Storage following a data lake design (HDFS/Hive, external and partitioned tables).
 - Data cleaning and transformation with Pandas (column normalization, type consistency, data quality checks).
+
 👉 **Repository**: https://github.com/Guillermo-Gil-Garro/openfoodfacts-etl-masterds
 
 
