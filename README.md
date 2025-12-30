@@ -31,10 +31,19 @@ Me interesa entender cómo funcionan los sistemas complejos, cómo convertir dat
 
 ## 📂 Proyectos destacados
 
-### 🔍 Exploratory Data Analysis – Trading Card Dataset  
-Primer proyecto completo de análisis exploratorio: limpieza, visualización y conclusiones interpretadas.  
-Incluye estructura clara, gráficos documentados y un README profesional.  
-👉 **Repositorio:** https://github.com/Guillermo-Gil-Garro/introduction-ds-eda
+### 💡 Neon Visualizer – Visualización interactiva con SVG
+
+Herramienta web interactiva para previsualizar rótulos de neón a partir de diseños SVG.  
+Permite aplicar efectos de brillo realista, probar distintos fondos, reposicionar elementos, editar trazos vectoriales individualmente y exportar la previsualización en PNG.
+
+Este proyecto pone el foco en:
+- Manipulación avanzada del DOM y SVG.
+- Renderizado visual y control fino de estilos.
+- Experiencia de usuario y herramientas interactivas.
+- Diseño de interfaces limpias y funcionales.
+
+👉 **Repositorio:** https://github.com/Guillermo-Gil-Garro/neon-visualizer  
+👉 **Demo:** https://guillermo-gil-garro.github.io/neon-visualizer/
 
 ### 🔄 ETL – Open Food Facts (API, Data Lake & Limpieza de Datos)
 
@@ -45,6 +54,12 @@ Incluye:
 - Limpieza y transformación de datos con Pandas (normalización de columnas, tipos, calidad de datos).
 
 👉 **Repositorio**: https://github.com/Guillermo-Gil-Garro/openfoodfacts-etl-masterds
+
+### 🔍 Exploratory Data Analysis – Trading Card Dataset  
+Primer proyecto completo de análisis exploratorio: limpieza, visualización y conclusiones interpretadas.  
+Incluye estructura clara, gráficos documentados y un README profesional. 
+
+👉 **Repositorio:** https://github.com/Guillermo-Gil-Garro/introduction-ds-eda
 
 *(Más proyectos en camino: modelos de ML básicos, análisis aplicado y proyecto final del máster.)*
 
@@ -99,9 +114,19 @@ I'm especially interested in understanding complex systems, turning data into de
 
 ## 📂 Featured Projects
 
-### 🔍 Exploratory Data Analysis – Trading Card Dataset  
-Full EDA including data cleaning, visualizations, insights, and well-structured documentation.  
-👉 **Repository:** https://github.com/Guillermo-Gil-Garro/introduction-ds-eda
+### 💡 Neon Visualizer – Interactive SVG Visualization
+
+Interactive web tool to preview neon signs from SVG designs.  
+It allows applying realistic glow effects, testing different backgrounds, repositioning elements, editing individual vector paths, and exporting high-quality PNG previews.
+
+This project focuses on:
+- Advanced DOM and SVG manipulation.
+- Visual rendering and fine-grained style control.
+- User experience and interactive tools.
+- Clean and functional interface design.
+
+👉 **Repository:** https://github.com/Guillermo-Gil-Garro/neon-visualizer  
+👉 **Live demo:** https://guillermo-gil-garro.github.io/neon-visualizer/
 
 ### 🔄 ETL – Open Food Facts (API, Data Lake & Data Cleaning)
 
@@ -113,6 +138,10 @@ It includes:
 
 👉 **Repository**: https://github.com/Guillermo-Gil-Garro/openfoodfacts-etl-masterds
 
+### 🔍 Exploratory Data Analysis – Trading Card Dataset  
+Full EDA including data cleaning, visualizations, insights, and well-structured documentation.  
+
+👉 **Repository:** https://github.com/Guillermo-Gil-Garro/introduction-ds-eda
 
 *(More projects coming soon: baseline ML models, applied analysis, and my master’s capstone project.)*
 
