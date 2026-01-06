@@ -31,6 +31,17 @@ Me interesa entender cómo funcionan los sistemas complejos, cómo convertir dat
 
 ## 📂 Proyectos destacados
 
+### 🏠🤖 House Price Prediction using Machine Learning
+
+Proyecto completo de predicción de precios de viviendas con un flujo de Data Science riguroso:
+- Integración y limpieza de múltiples datasets.
+- EDA justificado y explicado.
+- Modelado con regresión lineal y Random Forest.
+- Optimización con validación cruzada (GridSearchCV).
+- Diagnóstico explícito de sobreentrenamiento.
+
+👉 **Repositorio:** https://github.com/Guillermo-Gil-Garro/house-price-prediction-ml
+
 ### 💡 Neon Visualizer – Visualización interactiva con SVG
 
 Herramienta web interactiva para previsualizar rótulos de neón a partir de diseños SVG.  
@@ -113,6 +124,17 @@ I'm especially interested in understanding complex systems, turning data into de
 ---
 
 ## 📂 Featured Projects
+
+### 🏠🤖 House Price Prediction using Machine Learning
+
+End-to-end Machine Learning project focused on predicting house prices following a rigorous Data Science workflow:
+- Integration and cleaning of multiple datasets.
+- Justified exploratory data analysis (EDA).
+- Modeling with Linear Regression and Random Forest.
+- Hyperparameter tuning using cross-validation (GridSearchCV).
+- Explicit overfitting diagnosis and model comparison.
+
+👉 **Repository:** https://github.com/Guillermo-Gil-Garro/house-price-prediction-ml
 
 ### 💡 Neon Visualizer – Interactive SVG Visualization
 
